@@ -159,20 +159,3 @@ Solutions are primarily written in:
 
 ⭐ If you find this repository useful, feel free to explore the solutions and approaches.
 
-```
-
-### Your GitHub repo will render it like:
-
-**LeetCode Daily 🚀**  
-→ Goal  
-→ Topics Covered  
-→ Problem-Solving Approach  
-→ Repository Structure  
-→ Solution Format  
-→ Progress  
-→ Language  
-→ Objectives  
-→ Daily Commitment
-
-Everything above is valid Markdown and can go directly into `README.md`.
-```
