@@ -1,5 +1,14 @@
 package Arrays.PascalTriangleL118;
 
+/* Pascal's Triangle
+    Given an integer n, return the first n rows of Pascal's triangle.
+    In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
+    Example 1:
+    Input: n = 5
+    Output: [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
+    Example 2:
+    Input: n = 1
+    Output: [[1]] */
 import java.util.*;
 
     public class Solution3 {
