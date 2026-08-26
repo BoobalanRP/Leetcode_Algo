@@ -47,14 +47,14 @@ class Solution {
 // Online Java Compiler
 // Use this editor to write, compile and run your Java code online
 
-public class Main {
+public class LongestPalindromicSubstring {
     public static void main(String[] args) {
-        Solution ss = new Solution();
+        BetterSolution ss = new BetterSolution();
         String s = ss.longestPalindrome("abacd");
         System.out.println("Try programiz.pro " + s);
     }
 }
-class Solution {
+class BetterSolution {
     public String longestPalindrome(String s) {
         if (s == null || s.length() < 1) return "";
 
